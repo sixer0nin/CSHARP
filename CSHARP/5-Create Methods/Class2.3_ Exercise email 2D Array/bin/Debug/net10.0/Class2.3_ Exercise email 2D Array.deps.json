@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Class2.3_ Exercise email 2D Array/1.0.0": {
+        "runtime": {
+          "Class2.3_ Exercise email 2D Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class2.3_ Exercise email 2D Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

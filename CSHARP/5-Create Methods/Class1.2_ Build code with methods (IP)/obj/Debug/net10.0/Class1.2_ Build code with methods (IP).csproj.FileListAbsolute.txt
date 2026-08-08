@@ -1,0 +1,14 @@
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\bin\Debug\net10.0\Class1.2_ Build code with methods (IP).exe
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\bin\Debug\net10.0\Class1.2_ Build code with methods (IP).deps.json
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\bin\Debug\net10.0\Class1.2_ Build code with methods (IP).runtimeconfig.json
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\bin\Debug\net10.0\Class1.2_ Build code with methods (IP).dll
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\bin\Debug\net10.0\Class1.2_ Build code with methods (IP).pdb
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).AssemblyInfoInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).AssemblyInfo.cs
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).csproj.CoreCompileInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).dll
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\refint\Class1.2_ Build code with methods (IP).dll
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).pdb
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\Class1.2_ Build code with methods (IP).genruntimeconfig.cache
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1.2_ Build code with methods (IP)\obj\Debug\net10.0\ref\Class1.2_ Build code with methods (IP).dll

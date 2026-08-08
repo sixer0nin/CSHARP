@@ -1,0 +1,14 @@
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\bin\Debug\net10.0\Class 5_ Project 1 Int Input.exe
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\bin\Debug\net10.0\Class 5_ Project 1 Int Input.deps.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\bin\Debug\net10.0\Class 5_ Project 1 Int Input.runtimeconfig.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\bin\Debug\net10.0\Class 5_ Project 1 Int Input.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\bin\Debug\net10.0\Class 5_ Project 1 Int Input.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.AssemblyInfoInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.AssemblyInfo.cs
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.csproj.CoreCompileInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\refint\Class 5_ Project 1 Int Input.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\Class 5_ Project 1 Int Input.genruntimeconfig.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Project 1 Int Input\obj\Debug\net10.0\ref\Class 5_ Project 1 Int Input.dll

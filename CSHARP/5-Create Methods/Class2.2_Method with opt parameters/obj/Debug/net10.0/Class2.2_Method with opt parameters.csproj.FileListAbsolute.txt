@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\bin\Debug\net10.0\Class2.2_Method with opt parameters.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\bin\Debug\net10.0\Class2.2_Method with opt parameters.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\bin\Debug\net10.0\Class2.2_Method with opt parameters.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\bin\Debug\net10.0\Class2.2_Method with opt parameters.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\bin\Debug\net10.0\Class2.2_Method with opt parameters.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\refint\Class2.2_Method with opt parameters.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\Class2.2_Method with opt parameters.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.2_Method with opt parameters\obj\Debug\net10.0\ref\Class2.2_Method with opt parameters.dll

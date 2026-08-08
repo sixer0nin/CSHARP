@@ -1,0 +1,14 @@
+﻿Console.WriteLine("Nazhath\nRasheed! this ususally used for new line uses the \\n escape sequence to start a new line.");
+Console.WriteLine("\nNaz\thath\tRasheed! this is used for tab space uses the \\t escape sequence to add a tab space.");
+//Console.WriteLine("Nazhath\rRasheed!");
+//Console.WriteLine("Nazhath\bRasheed!");
+//Console.WriteLine("Nazhath\fRasheed!");
+Console.WriteLine("\nNazhath \'Rasheed! this is straight forward uses the \\\' escape sequence to-"); 
+Console.WriteLine("include a single quote in the string.");
+Console.WriteLine("\nNazhath\"Rasheed!\".this is used for double quotes uses the \\\" escape sequence to-");
+Console.WriteLine("include double quotes in the string and another \\\" at the end for double quotes.");
+Console.WriteLine("\nC:\\Nazhath\\Rasheed\\!this is used for backslash uses the \\\\ escape sequence to include");
+Console.WriteLine("a backslash in the string."); 
+Console.WriteLine("\nThe remaining escape sequences are \\a for alert, \\v for vertical tab,\\r for carriage return,");
+Console.WriteLine("\\b for backspace, and \\f for form feed. Also \\0 is used for null character and \\u for Unicode");
+Console.WriteLine("characters. These escape sequences are used to represent special characters in a string literal");

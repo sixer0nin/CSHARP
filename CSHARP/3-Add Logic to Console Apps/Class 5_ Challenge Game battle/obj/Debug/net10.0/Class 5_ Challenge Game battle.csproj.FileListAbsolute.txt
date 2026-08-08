@@ -1,0 +1,14 @@
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\bin\Debug\net10.0\Class 5_ Challenge Game battle.exe
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\bin\Debug\net10.0\Class 5_ Challenge Game battle.deps.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\bin\Debug\net10.0\Class 5_ Challenge Game battle.runtimeconfig.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\bin\Debug\net10.0\Class 5_ Challenge Game battle.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\bin\Debug\net10.0\Class 5_ Challenge Game battle.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.AssemblyInfoInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.AssemblyInfo.cs
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.csproj.CoreCompileInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\refint\Class 5_ Challenge Game battle.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\Class 5_ Challenge Game battle.genruntimeconfig.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 5_ Challenge Game battle\obj\Debug\net10.0\ref\Class 5_ Challenge Game battle.dll

@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\bin\Debug\net10.0\Class6_ Guided Project.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\bin\Debug\net10.0\Class6_ Guided Project.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\bin\Debug\net10.0\Class6_ Guided Project.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\bin\Debug\net10.0\Class6_ Guided Project.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\bin\Debug\net10.0\Class6_ Guided Project.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\refint\Class6_ Guided Project.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\Class6_ Guided Project.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class6_ Guided Project\obj\Debug\net10.0\ref\Class6_ Guided Project.dll

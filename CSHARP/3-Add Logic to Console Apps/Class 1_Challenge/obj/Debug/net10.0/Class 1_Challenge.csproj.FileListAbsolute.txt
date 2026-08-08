@@ -1,0 +1,14 @@
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\bin\Debug\net10.0\Class 1_Challenge.exe
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\bin\Debug\net10.0\Class 1_Challenge.deps.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\bin\Debug\net10.0\Class 1_Challenge.runtimeconfig.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\bin\Debug\net10.0\Class 1_Challenge.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\bin\Debug\net10.0\Class 1_Challenge.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.AssemblyInfoInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.AssemblyInfo.cs
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.csproj.CoreCompileInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\refint\Class 1_Challenge.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\Class 1_Challenge.genruntimeconfig.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 1_Challenge\obj\Debug\net10.0\ref\Class 1_Challenge.dll

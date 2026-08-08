@@ -1,0 +1,1 @@
+﻿// Assign user input to arrays/define lenght/ define when to stop ReadLine/display arrays/Update or change arrays with input

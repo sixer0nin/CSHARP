@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\bin\Debug\net10.0\Class2_ Exception Handling.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\bin\Debug\net10.0\Class2_ Exception Handling.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\bin\Debug\net10.0\Class2_ Exception Handling.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\bin\Debug\net10.0\Class2_ Exception Handling.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\bin\Debug\net10.0\Class2_ Exception Handling.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\refint\Class2_ Exception Handling.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\Class2_ Exception Handling.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class2_ Exception Handling\obj\Debug\net10.0\ref\Class2_ Exception Handling.dll

@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\bin\Debug\net10.0\Class5_ Exercise Dice Game.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\bin\Debug\net10.0\Class5_ Exercise Dice Game.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\bin\Debug\net10.0\Class5_ Exercise Dice Game.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\bin\Debug\net10.0\Class5_ Exercise Dice Game.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\bin\Debug\net10.0\Class5_ Exercise Dice Game.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\refint\Class5_ Exercise Dice Game.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\Class5_ Exercise Dice Game.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class5_ Exercise Dice Game\obj\Debug\net10.0\ref\Class5_ Exercise Dice Game.dll

@@ -1,0 +1,14 @@
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\bin\Debug\net10.0\Class1_ Write first method.exe
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\bin\Debug\net10.0\Class1_ Write first method.deps.json
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\bin\Debug\net10.0\Class1_ Write first method.runtimeconfig.json
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\bin\Debug\net10.0\Class1_ Write first method.dll
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\bin\Debug\net10.0\Class1_ Write first method.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.AssemblyInfoInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.AssemblyInfo.cs
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.csproj.CoreCompileInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.dll
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\refint\Class1_ Write first method.dll
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\Class1_ Write first method.genruntimeconfig.cache
+R:\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class1_ Write first method\obj\Debug\net10.0\ref\Class1_ Write first method.dll

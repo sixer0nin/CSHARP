@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\bin\Debug\net10.0\Class2_ Method parameters.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\bin\Debug\net10.0\Class2_ Method parameters.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\bin\Debug\net10.0\Class2_ Method parameters.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\bin\Debug\net10.0\Class2_ Method parameters.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\bin\Debug\net10.0\Class2_ Method parameters.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\refint\Class2_ Method parameters.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\Class2_ Method parameters.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2_ Method parameters\obj\Debug\net10.0\ref\Class2_ Method parameters.dll

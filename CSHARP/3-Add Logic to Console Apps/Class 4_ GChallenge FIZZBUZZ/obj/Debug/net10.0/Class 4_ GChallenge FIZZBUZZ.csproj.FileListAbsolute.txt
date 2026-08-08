@@ -1,0 +1,14 @@
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\bin\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.exe
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\bin\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.deps.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\bin\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.runtimeconfig.json
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\bin\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\bin\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.AssemblyInfoInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.AssemblyInfo.cs
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.csproj.CoreCompileInputs.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\refint\Class 4_ GChallenge FIZZBUZZ.dll
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.pdb
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\Class 4_ GChallenge FIZZBUZZ.genruntimeconfig.cache
+R:\VSCODE\vs_code\CSHARPPROJ\3-Add Logic to Console Apps\Class 4_ GChallenge FIZZBUZZ\obj\Debug\net10.0\ref\Class 4_ GChallenge FIZZBUZZ.dll

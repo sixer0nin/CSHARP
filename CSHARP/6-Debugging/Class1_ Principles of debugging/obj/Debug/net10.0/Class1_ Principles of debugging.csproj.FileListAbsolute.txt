@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\bin\Debug\net10.0\Class1_ Principles of debugging.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\bin\Debug\net10.0\Class1_ Principles of debugging.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\bin\Debug\net10.0\Class1_ Principles of debugging.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\bin\Debug\net10.0\Class1_ Principles of debugging.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\bin\Debug\net10.0\Class1_ Principles of debugging.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\refint\Class1_ Principles of debugging.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\Class1_ Principles of debugging.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\6-Debugging\Class1_ Principles of debugging\obj\Debug\net10.0\ref\Class1_ Principles of debugging.dll

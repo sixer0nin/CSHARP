@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\bin\Debug\net10.0\Class3_ Methods that returns values.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\bin\Debug\net10.0\Class3_ Methods that returns values.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\bin\Debug\net10.0\Class3_ Methods that returns values.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\bin\Debug\net10.0\Class3_ Methods that returns values.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\bin\Debug\net10.0\Class3_ Methods that returns values.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\refint\Class3_ Methods that returns values.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\Class3_ Methods that returns values.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class3_ Methods that returns values\obj\Debug\net10.0\ref\Class3_ Methods that returns values.dll

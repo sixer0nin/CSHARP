@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\bin\Debug\net10.0\Class4_ Return arrays from methods.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\bin\Debug\net10.0\Class4_ Return arrays from methods.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\bin\Debug\net10.0\Class4_ Return arrays from methods.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\bin\Debug\net10.0\Class4_ Return arrays from methods.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\bin\Debug\net10.0\Class4_ Return arrays from methods.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\refint\Class4_ Return arrays from methods.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\Class4_ Return arrays from methods.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class4_ Return arrays from methods\obj\Debug\net10.0\ref\Class4_ Return arrays from methods.dll

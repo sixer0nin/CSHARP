@@ -1,0 +1,14 @@
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\bin\Debug\net10.0\Class2.3_ Exercise email 2D Array.exe
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\bin\Debug\net10.0\Class2.3_ Exercise email 2D Array.deps.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\bin\Debug\net10.0\Class2.3_ Exercise email 2D Array.runtimeconfig.json
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\bin\Debug\net10.0\Class2.3_ Exercise email 2D Array.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\bin\Debug\net10.0\Class2.3_ Exercise email 2D Array.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.AssemblyInfoInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.AssemblyInfo.cs
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.csproj.CoreCompileInputs.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\refint\Class2.3_ Exercise email 2D Array.dll
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.pdb
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\Class2.3_ Exercise email 2D Array.genruntimeconfig.cache
+C:\Users\resha\iCloudDrive\Documents_\Coding\VSCODE\vs_code\CSHARPPROJ\5-Create Methods\Class2.3_ Exercise email 2D Array\obj\Debug\net10.0\ref\Class2.3_ Exercise email 2D Array.dll
