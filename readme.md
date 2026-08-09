@@ -1,4 +1,4 @@
-﻿# C# Fundamentals
+C# Fundamentals
 
 Class notes and practice projects covering core C# concepts from Microsoft learning materials.
 
@@ -20,41 +20,6 @@ Class notes and practice projects covering core C# concepts from Microsoft learn
 
 This repository is a reference for learning C# fundamentals through concise notes, examples, and hands-on exercises. The code emphasizes understanding control flow, reusable methods, data handling, and standard C# style.
 
-## Example concepts
-
-```csharp
-string? name = Console.ReadLine();
-
-if (string.IsNullOrWhiteSpace(name))
-{
-	Console.WriteLine("Please enter a name.");
-}
-else
-{
-	Console.WriteLine($"Hello, {name}!");
-}
-
-static void PrintItems(string[] items)
-{
-	foreach (string item in items)
-	{
-		Console.WriteLine(item);
-	}
-}
-```
-
-## Getting started
-
-1. Install the [.NET SDK](https://dotnet.microsoft.com/download).
-2. Clone or download this repository.
-3. Open the project in Visual Studio or VS Code with the C# extension.
-4. Run a project with:
-
-   ```bash
-   dotnet run
-   ```
-
-5. Read the notes and modify the examples to reinforce each concept.
 
 ## Coding conventions
 
