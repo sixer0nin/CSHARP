@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj": {}
   },
   "projects": {
-    "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj",
         "projectName": "Class3_ Create exception",
-        "projectPath": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class3_ Create exception\\Class3_ Create exception.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class3_ Create exception\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class3_ Create exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

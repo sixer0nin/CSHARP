@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class5_ Challenge Project POS\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

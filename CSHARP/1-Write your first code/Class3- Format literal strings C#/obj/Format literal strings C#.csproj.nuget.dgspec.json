@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj",
         "projectName": "Format literal strings C#",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class3- Format literal strings C#\\Format literal strings C#.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class3- Format literal strings C#\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class3- Format literal strings C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

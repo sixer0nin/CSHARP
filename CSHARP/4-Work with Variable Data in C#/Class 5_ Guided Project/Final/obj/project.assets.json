@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 5_ Guided Project\\Final\\Final.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 5_ Guided Project\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 5_ Guided Project\\Final\\Final.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 5_ Guided Project\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 5_ Guided Project\\Final\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 5_ Guided Project\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

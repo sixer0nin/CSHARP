@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class4_ Return arrays from methods\\Class4_ Return arrays from methods.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class4_ Return arrays from methods\\Class4_ Return arrays from methods.csproj",
       "projectName": "Class4_ Return arrays from methods",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class4_ Return arrays from methods\\Class4_ Return arrays from methods.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class4_ Return arrays from methods\\Class4_ Return arrays from methods.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class4_ Return arrays from methods\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class4_ Return arrays from methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

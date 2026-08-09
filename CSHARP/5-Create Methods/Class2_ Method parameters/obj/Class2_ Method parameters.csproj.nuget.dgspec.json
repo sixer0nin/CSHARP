@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj",
         "projectName": "Class2_ Method parameters",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class2_ Method parameters\\Class2_ Method parameters.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class2_ Method parameters\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class2_ Method parameters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

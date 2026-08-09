@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj",
         "projectName": "Practical C# Contoso Corp",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class5-Practical C# Contoso Corp\\Practical C# Contoso Corp.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\Class5-Practical C# Contoso Corp\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\Class5-Practical C# Contoso Corp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

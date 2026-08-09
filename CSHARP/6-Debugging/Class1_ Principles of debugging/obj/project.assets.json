@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class1_ Principles of debugging\\Class1_ Principles of debugging.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class1_ Principles of debugging\\Class1_ Principles of debugging.csproj",
       "projectName": "Class1_ Principles of debugging",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class1_ Principles of debugging\\Class1_ Principles of debugging.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class1_ Principles of debugging\\Class1_ Principles of debugging.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class1_ Principles of debugging\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class1_ Principles of debugging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

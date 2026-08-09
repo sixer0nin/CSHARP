@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj",
         "projectName": "Class 1_ Boolean Expression for Decision",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\Class 1_ Boolean Expression for Decision.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 1_ Boolean Expression for Decision\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

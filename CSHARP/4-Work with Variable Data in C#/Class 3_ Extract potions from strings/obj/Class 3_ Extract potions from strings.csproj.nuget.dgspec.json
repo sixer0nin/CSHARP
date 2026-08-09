@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj",
         "projectName": "Class 3_ Extract potions from strings",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\Class 3_ Extract potions from strings.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\4-Work with Variable Data in C#\\Class 3_ Extract potions from strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

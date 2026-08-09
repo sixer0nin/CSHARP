@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class1_ Write first method\\Class1_ Write first method.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class1_ Write first method\\Class1_ Write first method.csproj",
       "projectName": "Class1_ Write first method",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class1_ Write first method\\Class1_ Write first method.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class1_ Write first method\\Class1_ Write first method.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\5-Create Methods\\Class1_ Write first method\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\5-Create Methods\\Class1_ Write first method\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 2_ Control Var Scope\\Class 2_ Control Var Scope.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 2_ Control Var Scope\\Class 2_ Control Var Scope.csproj",
       "projectName": "Class 2_ Control Var Scope",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 2_ Control Var Scope\\Class 2_ Control Var Scope.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 2_ Control Var Scope\\Class 2_ Control Var Scope.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 2_ Control Var Scope\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 2_ Control Var Scope\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

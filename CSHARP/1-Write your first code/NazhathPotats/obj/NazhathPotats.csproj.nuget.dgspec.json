@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj",
         "projectName": "NazhathPotats",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\NazhathPotats\\NazhathPotats.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\1-Write your first code\\NazhathPotats\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\1-Write your first code\\NazhathPotats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj": {}
   },
   "projects": {
-    "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj",
         "projectName": "Class2_ Exception Handling",
-        "projectPath": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class2_ Exception Handling\\Class2_ Exception Handling.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\6-Debugging\\Class2_ Exception Handling\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\6-Debugging\\Class2_ Exception Handling\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

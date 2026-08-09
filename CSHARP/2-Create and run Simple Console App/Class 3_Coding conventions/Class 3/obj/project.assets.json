@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 3_Coding conventions\\Class 3\\Class 3.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 3_Coding conventions\\Class 3\\Class 3.csproj",
       "projectName": "Class 3",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 3_Coding conventions\\Class 3\\Class 3.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 3_Coding conventions\\Class 3\\Class 3.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 3_Coding conventions\\Class 3\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 3_Coding conventions\\Class 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

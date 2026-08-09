@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\D.Self Assesment_Assign usrinput to array\\D.Assesment_Assing input to array.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\D.Self Assesment_Assign usrinput to array\\D.Assesment_Assing input to array.csproj",
       "projectName": "D.Assesment_Assing input to array",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\D.Self Assesment_Assign usrinput to array\\D.Assesment_Assing input to array.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\D.Self Assesment_Assign usrinput to array\\D.Assesment_Assing input to array.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\D.Self Assesment_Assign usrinput to array\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\D.Self Assesment_Assign usrinput to array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

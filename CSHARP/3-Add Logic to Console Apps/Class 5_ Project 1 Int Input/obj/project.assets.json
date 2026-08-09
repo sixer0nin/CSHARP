@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 5_ Project 1 Int Input\\Class 5_ Project 1 Int Input.csproj",
+      "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 5_ Project 1 Int Input\\Class 5_ Project 1 Int Input.csproj",
       "projectName": "Class 5_ Project 1 Int Input",
-      "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 5_ Project 1 Int Input\\Class 5_ Project 1 Int Input.csproj",
+      "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 5_ Project 1 Int Input\\Class 5_ Project 1 Int Input.csproj",
       "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\3-Add Logic to Console Apps\\Class 5_ Project 1 Int Input\\obj\\",
+      "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\3-Add Logic to Console Apps\\Class 5_ Project 1 Int Input\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"

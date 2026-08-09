@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj": {}
+    "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj": {
+    "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj",
+        "projectUniqueName": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj",
         "projectName": "Class1",
-        "projectPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj",
+        "projectPath": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\Class1.csproj",
         "packagesPath": "C:\\Users\\resha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resha\\iCloudDrive\\Documents_\\Coding\\VSCODE\\vs_code\\CSHARPPROJ\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\obj\\",
+        "outputPath": "R:\\GitHub\\CSHARP\\CSHARP\\2-Create and run Simple Console App\\Class 1_ Classes and Use NET Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\resha\\AppData\\Roaming\\NuGet\\NuGet.Config"
