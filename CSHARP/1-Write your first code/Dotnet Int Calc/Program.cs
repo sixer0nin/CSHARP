@@ -4,7 +4,7 @@
 //clear initial console
 
 Console.Clear();
-Console.WriteLine("\n\t\t  \u0700\u0700" + "Basic Calc by:" + "Nazhath(\U00013142 )" + "\u0700\u0700");
+Console.WriteLine("\n\t\t  \u0700\u0700" + "Basic Calc by:" + "RISHAAM(\U00013142 )" + "\u0700\u0700");
 Console.WriteLine("\t\t\t\u058E\u058E\u058E " + @"Main Menu" + " \u058E\u058E\u058E");
 
 string optAdd = "ADDITION" + " +"; string optSub = "SUBTRACTION" + " -"; string optMulti = "MULTIPLICATION" + " *"; string optDivd = "DIVISION" + " /";
@@ -167,7 +167,7 @@ do
     //INPUT INCORRECT//////////////////////////////////
     else if (usrInpValid && (usrInpStr != validAdd || usrInpStr != validSub || usrInpStr != validMulti || usrInpStr != validDivd))
     {
-        Console.WriteLine("\n\t\t  \u0700\u0700" + "Basic Calc by:" + "Nazhath(\U00013142 )" + "\u0700\u0700");
+        Console.WriteLine("\n\t\t  \u0700\u0700" + "Basic Calc by:" + "Rishaam(\U00013142 )" + "\u0700\u0700");
         Console.WriteLine("\t\t\t\u058E\u058E\u058E " + @"Main Menu" + " \u058E\u058E\u058E");
         //Console.Write("\n  Which type of calculation would you like to do, \n  Enter 1, 2, 3, 4 or any other value to exit.\t");
         menuLooper = true;
